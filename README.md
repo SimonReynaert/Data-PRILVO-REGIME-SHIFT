@@ -1,7 +1,7 @@
-This page offers all .R and .xls files that were generated and used in publications over the course of my PhD. FWO project 1S12621N.
+This page offers all .R and .xls files that were generated and used in publications over the course of my PhD (FWO project 1S12621N).
 Code and data is freely available and reusable, upon referencing the author and his respective published articles.
 
-Currently published articles and with associated datasets online are:
+Currently published articles with associated datasets online are:
 
 Reynaert, S., De Boeck, H. J., Verbruggen, E., Verlinden, M., Flowers, N., & Nijs, I. (2021). Risk of short‐term biodiversity loss under more persistent precipitation regimes. Global Change Biology, 27(8), 1614-1626.
 
